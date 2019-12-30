@@ -1,2 +1,1 @@
-# gitattributes
-git-attributes
+`.gitattributes` 文件
